@@ -1,5 +1,5 @@
 Day 1
-
 I downloaded p5js
 I dont know how to add the p5js extension onto processing
-23452435234514
+I ate 1 muffin
+I edited 1 part of the walker ball thing by changing the colour of the ball
