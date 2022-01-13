@@ -26,7 +26,9 @@ function Walker() {
 
   this.display = function() {
     // Draw Walker as circle
-    fill(255);
+    //https://p5js.org/reference/#/p5/color
+    let c = color(255, 204, 0);
+    fill(c);
     ellipse(this.pos.x, this.pos.y, 48, 48);
   }
 }
