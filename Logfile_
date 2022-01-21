@@ -17,3 +17,9 @@ Updates to sketch.js:
   -Button that resets the position of the ball (still in progress)
   -functions (im assuming they replace libraries)
 -Managed to get the web extension examples working from the lecture (for some reason I couldn't get it to work in firefox in the lab)
+
+Jan 20 (Day 3)
+I tired yet agian to learn javascript
+I did 1 easy challenge: https://edabit.com/challenge/nhXofMMyrowMyr9Nv
+-Added a new folder for code challenges and the .js file "Day2_TriangleMaxEdges"
+-Its supposed to generate the maximum edge for a triangle, but I made it into a simple triangle generator
