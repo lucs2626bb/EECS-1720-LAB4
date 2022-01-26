@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+  <html lang="en">
+	  <body>
+		<h1 id ="header">Hello</h1>
+		<input type="text" id="inp">
+		
+		<button> onclick="red()"Change</button>
+		<script type="text/javascript">
+		
+		<!-- https://www.youtube.com/watch?v=SrSBhuuuIsg -->
+		<!-- Copy the HTML of the "header" (above) and copy it -->
+			<!-- document.write(document.getElementById("header").innerHTML) -->
+			console.log(document.getElementById("inp").value);
+		
+			function add() {
+				console.log("set");
+			}
+		
+			
+			
+		</script>
+		
+		</body>
+  </html>

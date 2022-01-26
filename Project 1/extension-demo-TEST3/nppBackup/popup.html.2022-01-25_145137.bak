@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+  <html lang="en">
+	  <head>
+	    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Document</title>
+	  </head>
+	  <body>
+		<img  src="https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png"  alt=""  /> 
+	    <h1>Get real</h1>
+		
+		<h1>Minecraft Mining levels</h1>
+<dl>
+	<dt>y = 63+</dt>
+	<dd>Coal, Iron, Gold (badlands only), and emeralds (mountains only)</dd>
+	<dt>y = 63 to 0 </dt>
+	<dd>Coal, Iron, Gold, Copper (chance of large veins) </dd>
+    <dt>y = 0 to -63</dt>
+	<dd>Diamonds, Redstone, Gold, Lapis, Iron (chance of large veins)</dd>
+</dl>
+	  </body>
+  </html>

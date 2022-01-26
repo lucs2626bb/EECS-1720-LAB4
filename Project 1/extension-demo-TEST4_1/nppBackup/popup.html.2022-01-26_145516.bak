@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+  <html lang="en">
+	  <body>
+		<h1 id ="header">Hello</h1>
+		
+		<script type="text/javascript">
+			document.write(document.getElementById("header").innerHTML)
+			
+			
+		</script>
+		
+		</body>
+  </html>

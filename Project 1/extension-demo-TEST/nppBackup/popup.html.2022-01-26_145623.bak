@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+  <html lang="en">
+	  <head>
+	    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	    <title>Document</title>
+	  </head>
+	  <body>
+		<img  src="https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png"  alt=""  /> 
+	    <h1>Get real</h1>
+		
+		<h1>Minecraft Mining levels</h1>
+<dl>
+	<dt>y = 63+</dt>
+	<dd>Coal, Iron, Gold (badlands only), and emeralds (mountains only)</dd>
+	<dt>y = 63 to 0 </dt>
+	<dd>Coal, Iron, Gold, Copper (chance of large veins) </dd>
+    <dt>y = 0 to -63</dt>
+	<dd>Diamonds, Redstone, Gold, Lapis, Iron (chance of large veins)</dd>
+	
+	
+	<div id="optionsWrapper">
+			<dt>//more-extension-demo	-Github Sarah Vollmer</dt>
+            <h5 id="adTitle">URL Position and Appearance</h5>
+            <div class="controlsWrapper">
+
+                <input type="checkbox" id="removeArrowCheckBox" class="checkbox" name="removeArrow" value="arrow"> Remove Arrow/Dots after URL<br>
+                <input type="checkbox" id="removeUrlCheckBox" class="checkbox" name="removeUrl" value="url"> Remove URL<br>
+                                
+                <input type="checkbox" id="colorUrlCheckBox" class="checkbox" name="colorUrl" value="color"> Colour URL<br>
+                Url Color: <input type="textbox" id="urlColorSelection" class="colorSelection"> 
+            </div>
+
+            <button id="defaultSettings"> Restore Defaults</button>
+            <br>
+            <br>
+        </div>
+		
+		<dd><a href= "javascript:(function(){alert('hello');})()"></dd>
+	
+</dl>
+	  </body>
+  </html>
