@@ -27,3 +27,10 @@ I coded a new file From this website: https://edabit.com/challenge/nhXofMMyrowMy
 Jan 21 (Day 4)
 Today and the weekend is where I start my browser extension lab
 -Edited "extension-demo" to extension-demo-TEST (replacing the icon and text make sure that it works in chrome)
+
+Jan 26 (Day 5)
+testing HTML features for Project 1: Browser extension
+-TEST, TEST2, TEST3, TEST4_1 are all made to test freatures of grabbing elements from HTML (Most are from tutorials on websites and youtube)
+-grabbing html elements from the site (tutorial) and storing them in the console
+https://www.geeksforgeeks.org/how-to-get-the-entire-html-document-as-a-string-in-javascript/
+https://www.youtube.com/watch?v=JcKse_OhnfQ&list=PLzMcBGfZo4-njtc5xy3qli4cN2zlKsoxd&index=6
